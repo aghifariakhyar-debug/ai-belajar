@@ -1,3 +1,4 @@
 nama = "budi"
 print(nama)
 halo
+belajar ai
