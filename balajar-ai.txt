@@ -3,3 +3,4 @@ print(nama)
 halo
 belajar ai
 fitur AI dibuat di branch fitur-ai fitur-ai
+Perubahan dibuat langsung dari GitHub
